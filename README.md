@@ -7,9 +7,9 @@ These are two Python scripts to either (a) completely scrape or (b) search and d
 <h2><b>Requirements</b></h2>
 <ul>
 <li>Python version 2.6+</li>
-<li>[requests](https://pypi.python.org/pypi/requests)</li>
-<li>[beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4)</li>
-<li>[clint](https://pypi.python.org/pypi/clint)(For progress bar)</li>
+<li> [requests](https://pypi.python.org/pypi/requests) </li>
+<li> [beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4) </li>
+<li> [clint](https://pypi.python.org/pypi/clint) </li>
 </ul>
 <h2><b>Usage</b></h2>
 
