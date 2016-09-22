@@ -1,4 +1,4 @@
-<h1><b>Wallhaven Scraper</b></h1>
+<h1><b>Wallhaven Downloader</b></h1>
 
 <h2><b>Synopsis</b></h2>
 
@@ -7,9 +7,9 @@ These are two Python scripts to either (a) completely scrape or (b) search and d
 <h2><b>Requirements</b></h2>
 
 Python version 2.6+
-[requests](https://pypi.python.org/pypi/requests)
-[beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4)
-[clint](https://pypi.python.org/pypi/clint)(For progress bar)
+1. [requests](https://pypi.python.org/pypi/requests)
+2. [beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4)
+3. [clint](https://pypi.python.org/pypi/clint)(For progress bar)
 
 <h2><b>Usage</b></h2>
 
