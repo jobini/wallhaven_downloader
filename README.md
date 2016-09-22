@@ -5,12 +5,12 @@
 These are two Python scripts to either (a) completely scrape or (b) search and download wallpapers, with pause/resume capability, from [Wallhaven](alpha.wallhaven.cc). They're implemented without using browser automation or a headless browser.
 
 <h2><b>Requirements</b></h2>
-
-Python version 2.6+
-1. [requests](https://pypi.python.org/pypi/requests)
-2. [beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4)
-3. [clint](https://pypi.python.org/pypi/clint)(For progress bar)
-
+<ul>
+<li>Python version 2.6+</li>
+<li>[requests](https://pypi.python.org/pypi/requests)</li>
+<li>[beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4)</li>
+<li>[clint](https://pypi.python.org/pypi/clint)(For progress bar)</li>
+</ul>
 <h2><b>Usage</b></h2>
 
 <h3>To scrape</h3>
