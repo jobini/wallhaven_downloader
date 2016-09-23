@@ -6,7 +6,7 @@ These are two Python scripts to either (a) completely scrape or (b) search and d
 
 <h2><b>Requirements</b></h2>
 
-1. Python version 2.6+ 
+1. Python version 2.7.6+ 
 2. [requests](https://pypi.python.org/pypi/requests)
 3. [beautifulsoup4](https://pypi.python.org/pypi/beautifulsoup4)
 4. [clint](https://pypi.python.org/pypi/clint)
