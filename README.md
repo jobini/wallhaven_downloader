@@ -27,4 +27,4 @@ Open `wallhaven_searcher.py` using a text editor and set the `path` variable to 
 
 <h2><b>License</b></h2>
 
-Please view LICENSE.md for details on the usage of code in this repository.
+Please view LICENSE for details on the usage of code in this repository.
